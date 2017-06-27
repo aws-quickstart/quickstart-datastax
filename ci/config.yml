@@ -18,7 +18,7 @@ global:
 tests: 
   datastax: 
     parameter_input: quickstart-datastax.json
-    template_file: quickstart-datastax-master.template
+    template_file: datastax-master.template
     regions: 
       - us-east-1
       - ap-southeast-2
