@@ -1,6 +1,6 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
-    "Description": "(qs-1nbqhl4ua) Datastax template, License: Apache 2.0 (Please do not remove) June,2,2017",
+    "Description": "Datastax template, License: Apache 2.0 (Please do not remove) June,27,2017 (qs-1nbqhl4uk)",
     "Metadata": {
         "AWS::CloudFormation::Interface": {
             "ParameterGroups": [{
