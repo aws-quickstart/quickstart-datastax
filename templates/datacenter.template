@@ -56,7 +56,11 @@
                 "c4.4xlarge",
                 "i3.xlarge",
                 "i3.2xlarge",
-                "i3.4xlarge"
+                "i3.4xlarge",
+                "r4.large",
+                "r4.xlarge",
+                "r4.2xlarge",
+                "r4.4xlarge"
             ],
             "ConstraintDescription": "must be a valid EC2 instance type."
         },
