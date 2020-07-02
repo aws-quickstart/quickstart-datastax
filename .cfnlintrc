@@ -1,5 +1,0 @@
-ignore_checks:
-- W3005
-ignore_templates:
-- config.yml
-- taskcat.yml

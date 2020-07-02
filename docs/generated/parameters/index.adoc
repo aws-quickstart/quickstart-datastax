@@ -1,1 +1,6 @@
-// placeholder
+
+=== Launch into new VPC
+include::quickstart-datastax-master.adoc[]
+
+=== Launch into an existing VPC
+include::quickstart-datastax-no-vpc.adoc[]
