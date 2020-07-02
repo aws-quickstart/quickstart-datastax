@@ -1,7 +1,8 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: 'Datastax template, License: Apache 2.0 (Please do not remove) June,27,2017
-  (qs-1nbqhl4up)'
+Description: 'Datastax template, License: Apache 2.0 (Please do not remove) July,2,2020 (qs-1nbqhl4up)'
 Metadata:
+  QuickStartDocumentation:
+    EntrypointName: "Launch into an existing VPC"  
   AWS::CloudFormation::Interface:
     ParameterGroups:
       - Label:

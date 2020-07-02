@@ -1,0 +1,14 @@
+:quickstart-project-name: quickstart-datastax
+:partner-product-name: Datastax
+:partner-company-name: Datastax Enterprise
+:doc-month: May
+:doc-year: 2020
+:partner-contributors: Raks Krishna, Scott Hendrickson, 
+:quickstart-contributors: Tony Vattathil
+:deployment_time: 30 minutes / 1 hour
+:default_deployment_region: us-east-1
+// Uncomment these two attributes if you are leveraging
+// - an AWS Marketplace listing.
+// Additional content will be auto-generated based on these attributes.
+// :marketplace_subscription:
+// :marketplace_listing_url: https://example.com/
